@@ -1,0 +1,11 @@
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\bin\Debug\tabnametest.exe.config
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\bin\Debug\tabnametest.exe
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\bin\Debug\tabnametest.pdb
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.Form1.resources
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.Properties.Resources.resources
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.UserControl1.resources
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.exe
+C:\Users\Matthew\source\repos\tabnametest\tabnametest\obj\Debug\tabnametest.pdb
